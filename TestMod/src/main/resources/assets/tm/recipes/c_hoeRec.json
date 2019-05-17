@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " RR",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:copper_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tm:copper_hoe",
+        "count": 1
+    }
+}

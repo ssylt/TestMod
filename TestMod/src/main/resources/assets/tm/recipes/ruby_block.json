@@ -1,0 +1,26 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "tm:ruby"
+    },
+
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    
+    {
+      "item": "minecraft:iron_ingot"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "tm:ruby_block",
+        "count": 4
+    }
+}

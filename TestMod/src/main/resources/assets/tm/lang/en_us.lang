@@ -1,0 +1,43 @@
+
+//Item Names
+item.obsidian_ingot.name=Obsidian Ingot
+item.ruby.name=Ruby
+item.obsidian_dust.name=Obsidian Dust
+item.tin_ingot.name=Tin Ingot
+item.copper_ingot.name=Copper Ingot
+//Block Names
+tile.obsidian_ingot_block.name=Hard Obsidian Block
+tile.ruby_block.name=Ruby Block
+tile.obsidian_ore.name=Obsidian Ore
+tile.tin_ore.name=Tin Ore
+tile.copper_ore.name=Copper Ore
+tile.marble_block.name=Marble Block
+tile.marble_brick_block.name=Marble Brick
+tile.nuke_block.name=Nuke
+//Tool names
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_shovel.name=Obsidian Shovel
+item.obsidian_hoe.name=Obsidian Hoe
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+item.copper_sword.name=Copper Sword
+item.copper_hoe.name=Copper Hoe
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_shovel.name=Copper Shovel
+item.copper_axe.name=Copper Axe
+
+item.tin_sword.name=Tin Sword
+item.tin_hoe.name=Tin Hoe
+item.tin_pickaxe.name=Tin Pickaxe
+item.tin_shovel.name=Tin Shovel
+item.tin_axe.name=Tin Axe
+
+item.superdiamond_pickaxe.name=Super Diamond Pickaxe
+
+//CreativeTab
+itemGroup.tab_testmod=TestMod Tab

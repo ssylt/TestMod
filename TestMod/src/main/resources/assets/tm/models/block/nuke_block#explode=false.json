@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "tm:blocks/nuke_block_bottom",
+        "up": "tm:blocks/nuke_block_top",
+        "north": "tm:blocks/nuke_block",
+        "south": "tm:blocks/nuke_block",
+        "west": "tm:blocks/nuke_block",
+        "east": "tm:blocks/nuke_block",
+        "particle": "tm:blocks/nuke_block"
+    }
+}

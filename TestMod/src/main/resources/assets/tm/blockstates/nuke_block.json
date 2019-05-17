@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "tm:nuke_block" },
+        "explode=false": {"model":"tm:nuke_block"},
+        "explode=true": {"model":"tm:nuke_block"}
+        }
+}
